@@ -1,0 +1,16 @@
+{
+  "name": "osx-appman",
+  "version": "0.0.1",
+  "description": "OSX Application Manager",
+  "author": "Scott Maxwell <wsemax@gmail.com>",
+  "contributors": [
+    {
+      "name": "Scott Maxwell",
+      "email": "wsemax@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "simple-plist": "^0.2.1",
+    "sips": "^1.0.3"
+  }
+}
